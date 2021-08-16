@@ -1,0 +1,13 @@
+#what_I_love{
+    text-align: center;
+    font-style: oblique;
+}
+#why_I_love_it{
+    font-size: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: black;
+}
+body{
+        background-color: cornflowerblue;
+}
